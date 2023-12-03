@@ -4,6 +4,6 @@
     "outDir": "../../dist/out-tsc"
   },
   "files": [],
-  "exclude": ["**/*.stories.ts", "**/*.stories.js"],
+  "exclude": [],
   "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"]
 }
